@@ -37,6 +37,7 @@ Editing rules:
 Sections by id: `tools` (hero + HSIP), `security`, `education`, `lab`, `contact`.
 
 - **Hero h1**: "I build the tools AI agents need to be trusted." Each word is a `<span class="word">`; `grad` adds the gradient.
+- **Honesty rule**: the owner understands code but builds with AI help. Never claim years of coding or expert engineering. Stat 1 is "AI Assisted Builder".
 - **HSIP**: High Security Internet Protocol, flagship. Live: hsip-1phase-production.up.railway.app (ToS at `/tos.html`). Repo: rewired89/HSIP-1PHASE. Nav CTA "Get HSIP License".
 - **Security & Privacy**: HSIP-1PHASE, AI_Sentinel, GlassBox.
 - **Interactive Learning**: CyberGuide, LIBguide, BioGuide, PhysicsGuide, MathGuide, CircuitGuide, TradeGuide (GitHub Pages at rewired89.github.io/<Name>/).
