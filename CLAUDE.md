@@ -39,10 +39,12 @@ Sections by id: `tools` (hero + HSIP), `security`, `education`, `lab`, `contact`
 - **Hero h1**: "I build the tools AI agents need to be trusted." Each word is a `<span class="word">`; `grad` adds the gradient.
 - **Honesty rule**: the owner understands code but builds with AI help. Never claim years of coding or expert engineering. Stat 1 is "AI Assisted Builder".
 - **HSIP**: High Security Internet Protocol, flagship. Live: hsip-1phase-production.up.railway.app (ToS at `/tos.html`). Repo: rewired89/HSIP-1PHASE. Nav CTA "Get HSIP License".
-- **Security & Privacy**: HSIP-1PHASE, AI_Sentinel, GlassBox.
+- **Security & Privacy**: AI_Sentinel, GlassBox, Outpost (open source CI gate), SDNS (enterprise, not marked open source). Outpost and SDNS cards have no repo links yet.
 - **Interactive Learning**: CyberGuide, LIBguide, BioGuide, PhysicsGuide, MathGuide, CircuitGuide, TradeGuide (GitHub Pages at rewired89.github.io/<Name>/).
 - **Experiments**: Parallax.
-- **In the Lab**, **Work With Me** (contact, GitHub rewired89).
+- **In the Lab** (private, order matters): Acheron, Axiom-Nexus, NeuroCompass, Nyx, NyxOS, Numen (math engine), Predicta (prediction model, no description yet), Near (3D holographic calls).
+- **Work With Me** (contact, GitHub rewired89).
+- **Open source rule**: only claim open source per project. HSIP, NeuroCompass, Acheron and Predicta are NOT free. Never write "everything is open source".
 
 All repos live under `github.com/rewired89`.
 
